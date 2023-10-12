@@ -4435,7 +4435,7 @@ class pussvideo extends HTMLElement {
     <!--box1------------------------------------------>
     <div class="swiper-slide">
     <li class="movie-box">
-        <a href="/Xemphim/pussinboot/2.html">
+        <a href="1-puss2.html">
             <div class="box-img">
             <img src="https://www.dreamworks.com/storage/cms-uploads/puss-in-boots-products-digital.jpg" alt="" class="img"></div>
         
